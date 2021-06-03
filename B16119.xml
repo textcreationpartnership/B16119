@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A very proper treatise, wherein is breefely set forth the art of limming whiche teacheth the order in drawing &amp; tracing of letters, vinets, flowers, armes, and imagery, and the maner how to make sundrye syses or groundes to lay siluer or golde vpon, and how siluer or golde shall be layed or limmed vpon the syse, and the waye to temper golde and siluer and other mettals and diuerse kyndes of colours to write or to limme withall vppon velym, parchment or paper, and how to lay them vppon the worke which thou entendest to make, and how to vernishe it when thou hast done, with diuerse other thinges verye meete and necessary to be knowne to all such gentlemen, and other persons as do delight in limming, paynting, or in tricking of armes in their coulors, and therfore a worke very meete to be adioyned to the bookes of armes.</title>
+         </titleStmt>
+         <extent>Approx. 41KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B16119</idno><idno type="EEBO-CITATION">99855454</idno>
+  <idno type="VID">12938</idno>
+  <idno type="EEBO-PROQUEST">2240861805</idno>
+  <idno type="STC">STC 24254</idno>
+  <idno type="STC">ESTC S120255</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99855454e"/>
+            <note>(EEBO-TCP ; phase 2, no. B16119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1611:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A very proper treatise, wherein is breefely set forth the art of limming whiche teacheth the order in drawing &amp; tracing of letters, vinets, flowers, armes, and imagery, and the maner how to make sundrye syses or groundes to lay siluer or golde vpon, and how siluer or golde shall be layed or limmed vpon the syse, and the waye to temper golde and siluer and other mettals and diuerse kyndes of colours to write or to limme withall vppon velym, parchment or paper, and how to lay them vppon the worke which thou entendest to make, and how to vernishe it when thou hast done, with diuerse other thinges verye meete and necessary to be knowne to all such gentlemen, and other persons as do delight in limming, paynting, or in tricking of armes in their coulors, and therfore a worke very meete to be adioyned to the bookes of armes.</title>
+               </titleStmt>
+               <extent>[12] leaves   </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Purfoote, the assigne of Richard Tottill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1583.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At foot of title: Cum priuilegio.</note>
+                  <note>Running title reads: The arte of limming.</note>
+                  <note>Signatures: A-C⁴.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Painting --  Early works to 1800.</term>
+               <term type="topical_term">Illumination of books and manuscripts --  Early works to 1800.</term>
+               <term type="topical_term">Painting --  Technique --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:12938:1"/>
+            <pb facs="tcp:12938:1"/>
+            <p>
+               <hi>A very proper treatise, wherein is <hi>breefely set foorth the art of Limming, whiche teacheth the</hi> or<g ref="char:EOLhyphen"/>der in drawing &amp; tracing of letters, Vinets, Flowers, Armes,</hi> and Imagery, and the maner how to make sundrye syses or groundes to lay siluer or golde vpon, and how siluer or golde shall be layed or limmed vpon the syse, and the waye to temper golde and siluer and other mettals and diuerse kyndes of colours to write or to limme withall vppon Ve<g ref="char:EOLhyphen"/>lym, Parchment or Paper, and how to lay them vppon the worke which thou entendest to make, and how to vernishe it when thou hast done, with diuerse other thinges verye meete and necessary to be knowne to all such Gentlemen, and other persons as do delight in Limming, paynting or in tricking of armes in their colours, and therefore a worke very meete to be adioyned to the bookes of Armes.</p>
+            <p>¶ <hi>Imprinted at London by <hi>Thomas Purfoote, the assigne of Richard Tottill.</hi>
+               </hi>
+            </p>
+            <p>1583</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Cum Priuilegio.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:12938:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:12938:2"/>
+            <head>The art of Limming.</head>
+            <div type="part">
+               <head>The order of dravving or tracing.</head>
+               <p>FIrst thou shalt with a pensill of black Leade, or with a coale made sharpe at the poynt, trace al thy letters, and set thy Vinets or flowres, and then thy imagery if thou wilt make any. And then shalte thou with a small pen draw all thou hast portred, then make thy syse on this wise.</p>
+            </div>
+            <div type="part">
+               <head>¶ To make a double syse or bottome to lay or settle siluer or golde vpon, called an embossed ground.</head>
+               <p>TAke Venis Cereuse, white lead, the plaister of an olde image or chalke, any of these made in fiue pouder, and then grounde with the glayre of an egge and a little wa<g ref="char:EOLhyphen"/>ter on a paynters stone maketh a good bottome to lay vn<g ref="char:EOLhyphen"/>der siluer. But when you shall vse any of them to laye vn<g ref="char:EOLhyphen"/>der golde, doe to it a little Saffron therewith to make it somewhat yealow, but beware ye put not too muche wa<g ref="char:EOLhyphen"/>ter thereto, for then wil it be ouer weake, and if you do o<g ref="char:EOLhyphen"/>uermuch glayre to it, then will it be ouer stiffe, therefore mingle it after discretion, and looke thy syse be thick stan<g ref="char:EOLunhyphen"/>ding, and set thy syse thus tempered and couered in a horn or a shell in some seller or shadowed place, or vnder the earth where it may stand moyst by the space of vii dayes. vntil it be perfite clammy, and rotten, and euery day once stirre it about, and you shal wel vnderstād that al the sises the elder they be and the more clāmy, &amp; rotten they be, the better they be, for al the craft is in wel making and tem<g ref="char:EOLhyphen"/>pering of the sise, and if there stand anye belles vppon the sise, put in eare ware, for it is a remedy therefore, and be<g ref="char:EOLhyphen"/>fore you lay it on your worke, first lay the syse on a scrow, and drye it, and when it is drye, bend it, and if it bend, and
+<pb facs="tcp:12938:3"/> breake not, then it is good and perfect, and if it breake put therto a little water to make it weaker, and proue if it cle<g ref="char:EOLhyphen"/>ueth fast to the booke, and if it do not, then put glayre ther<g ref="char:EOLhyphen"/>to, and make it more stedfast. The like syse may you make with Gypsium, boole Armoniake, red or yealo Oker orpi<g ref="char:EOLhyphen"/>ment or Masticot with brown of Spayn or with red lead, if euery of them be ground by himselfe and tempered, and ordred in maner and fourme aboue written.</p>
+            </div>
+            <div type="part">
+               <head>To make a thin syse or bottome to lay or settle siluer or gold vpon, called a single ground.</head>
+               <p>TAke y<seg rend="sup">e</seg> new shreds of glouers leather, or of new parch<g ref="char:EOLhyphen"/>ment, for that is best, and seeth them in fayre water frō a quart to a pinte that the liquor be somewhat thicke and clammy betweene your fingers, then strayne the liquor frō the shreds, and put it being hote in some stone vessell, and so worke it forth before it be colde, and when you laye on your siluer or gold, see that your sise be neither too moyst, nor too drye, but in a meane betweene both, for dread of ap<g ref="char:EOLhyphen"/>payring your worke. The like syse maye you make (with<g ref="char:EOLhyphen"/>out heating them at the fyre) of glue water made of parch<g ref="char:EOLhyphen"/>ment glue for that is best, or with water gūmed some what thick with gum Arabick or of good old glayre, or with the milke of greene figges alone, or with the milke of spourge or of wartweede, or with the yelow milke of greene salen<g ref="char:EOLhyphen"/>dine, or with the iuyce of garlike, or of onyon heades, or with the water and grease of snayles. Vpon euery of these may you lay your leaues of siluer or golde hauing regard that your ground be neyther too moyst, nor to drye, when you shall lay or settle the same therevpon.</p>
+            </div>
+            <div type="part">
+               <head>¶ To lay a double syse on letters, or vppon other thinges.</head>
+               <pb n="3" facs="tcp:12938:3"/>
+               <p> YOu shall with a pencel made of gray amys, or calliber tailes lay on thy syse somwhat substancially, or if thou wilt first thinne, and after thicker, and then dry it, &amp; when it is drye wet it lightly with thy spittle, and then shaue it with a sharpe knife, vntil it be euen without hils, &amp; if there fall any default therein, or else there is more in one place then in another, lay agayne thy syse on it, and drye it and ingrosse it as is sayd before, &amp; when it is engrossed &amp; made playn, then burnish it with the tooth of a calfe of an oxe, or of an horse that is made therefore standing in a crooked stick▪ and when it is burnished and made euen and shining, then is it ready to lay on it thy gold or thy siluer.</p>
+            </div>
+            <div type="part">
+               <head>To lay golde or siluer on syse.</head>
+               <p>FIrst cut the leaues of gold or Siluer in peeces with a sharpe knife, or a knife made of a great reede vppon a little bord as broade as a trencher couered with a calues skin raysed or vnderstuffed with wooll or floxe or else vn<g ref="char:EOLhyphen"/>stuffed▪ then shalt thou with a pensill weat lightlye on thy mouth weat thy syse, so it be a little moyste, and then weat thy pensill agayne in thy mouth on the same wise, and touche thy golde or siluer that thou hast cutte by a corner lightlye, and laye it on thy syse, before made a little moyst, and then thou shalt take the tayle of an hare, of a conney, or a peece of cotton &amp; lightly presse it down on thy syse, &amp; when thou hast thus done, let it drye vntill it be wel dryed, then burnishe it: for if thou shalte burnishe it weate thou shalt rubbe of all, and when it is well dryed, take the tuske that thou doest burnish with and drie it, and heat it well on thy cheeke, then burnish thy golde firste softlye, and then harder vntill it shine, but burnish it not ouer long, for dreade of apparing. And when thou haste well burnished it, then take a white woollen cloth or an
+<pb facs="tcp:12938:4"/> hares foote, and rubbe all away, saue it which cleaueth to the sise, &amp; if ther be any place faultie, so that the gold faile for drynesse of the syse, then weat it agayne and lay on the golde, and dry it and burnish it as you did before.</p>
+            </div>
+            <div type="part">
+               <head>To make gum water to temper colours with all.</head>
+               <p>TAke clean water, &amp; do it in a vessel &amp; put thereto a por<g ref="char:EOLhyphen"/>cion of gumme Arabec &amp; let it stand vntill the gum be wel dissolued and molten in the water, but looke it be not ouer thick of gum, for then it is euill to worke with, and if it be too thin of gum, then will the colour fade and fall of, therfore keepe a meane &amp; temper thy colours therwith, such as it serueth for best. Note the best gumme is cleare <label type="milestone">
+                     <seg type="milestoneunit">Nota </seg>
+                  </label> and brittle y<seg rend="sup">t</seg> in stāping it, it becōmeth pouder easily with<g ref="char:EOLhyphen"/>out cleauing together.</p>
+            </div>
+            <div type="part">
+               <head>To make glayre for the like purpose.</head>
+               <p>TAke the white of newe layde egges as manye as you thinke good, and strayne them through a linnen cloth to take out the cocke treadinges, then put them in a dishe and wring them through a sponge or a white woollē cloth vntill they be as thin as water, then wash the sponge or cloth, and drye it. And put the glaire to thuse aforesaid in a stone pot, or a glasse fast stopped, and spend it as soone as ye can, for it will not keepe aboue three dayes, but it will haue an ill sauour, except they be ordred as followeth.</p>
+            </div>
+            <div type="part">
+               <head>¶ To keepe whites of egges as long as ye will, without cor<g ref="char:EOLhyphen"/>rupting or putting of Arsenik to them.</head>
+               <p>Take the whites of egges, not breaking them in anye wise, but take out the cocktreading, and put to them as much of the best white vineger as shall suffyse the quanti<g ref="char:EOLhyphen"/>tie
+<pb n="4" facs="tcp:12938:4"/> of the whites, leauing it so the space of two dayes, then passe it through some linnen cloth w<seg rend="sup">t</seg>out breaking or bea<g ref="char:EOLhyphen"/>ting the white of the egges leauing it so the space of viii. dayes, then strayne it agayne, and put it in a vial wel stop<g ref="char:EOLhyphen"/>ped, to occupie for the purposes aboue written.</p>
+            </div>
+            <div type="part">
+               <head>¶ To temper golde or siluer wherewith you may write with a pen or paint with a pensill.</head>
+               <p>TAke fiue or sixe leaues of beaten golde or siluer, and <note place="margin">Gold &amp; siluer.</note> grynd them wel and finely on a paynters stone with a little hony, then put it into a glasse with a quātity of faire water, &amp; let it stand one night, then drane the water and the hony afterward from the golde, &amp; put to the gold gum water, and then write with it, and when it is drye, burnish it with an oxe tooth. Also if you grind your leaues of gold with glayre only without hony putting to it, you maye wel write therwith in adding to it a little gumme water, and with your golde tempered in maner abouesayde you may diaper with a small pen or pensill vpon colours. If <note place="margin">Diaper. Shell gold and shell siluer.</note> you wil buy at the Poticaries shel gold or shel siluer, with the which (being tempered with gumme water) you may very wel write with a pen, or paynt with a pensil.</p>
+            </div>
+            <div type="part">
+               <head>To temper azure or Byze.</head>
+               <p>GRind azure or byze on a painters stone with clene wa<g ref="char:EOLhyphen"/>ter, then put it in a broad glasse or in a broade shel, and <note place="margin">Asure or light blue for arms.</note> when it hath stand a while al the dregs will fleete aboue, and all the cleane coloure will fall to the bottome, then poure out the water with the dregges, &amp; put the azure in cleane water agayne. Then sturre the colour and the wa<g ref="char:EOLhyphen"/>ter together, &amp; let it stand &amp; fine, &amp; after that poure out the water and the dregs agayn, and do thus vntil it bee well purged &amp; clarified, for the Potecaries mingle chalke ther<g ref="char:EOLhyphen"/>with
+<pb facs="tcp:12938:5"/> to multiplie it to their profite, but this you must doe to clarifie it to the first kinde if neede be, thē shal you grind it agayne vpon a paynters stone with gummed water, then put it into a horne or a shell, and when you will write or paint. Then stirre it with a sticke, and let the sticke droppe into the pen, for this vermilion, &amp; this colour will fal to the bottome, and sinke as leade.</p>
+               <p>His falle colour, two parts azure, and one of Cereuse, &amp; sadded with the same azure or with black inke, or with In<g ref="char:EOLhyphen"/>debaudias.</p>
+            </div>
+            <div type="part">
+               <head>How to make azure and Byze sadder if they be of a light colour.</head>
+               <p>Take good blue Turnesoll, and weat it in gum water, and then wring it, and with that water tēper the azure or Byze, or else if thou wilt thou mayst with a pensill drawe with thy turnesoll ouer the byze when it is drye whether it be vinet or imagery.</p>
+            </div>
+            <div type="part">
+               <head>To temper Indebaudias.</head>
+               <p>GRynde Indebaudias on a paynters stone, with gumme <note place="margin">Ag Indian black.</note> water, &amp; put it in a shell to worke withal.</p>
+               <p>His false colour, Two parts Inde, &amp; the third part white lead or Cereuse &amp; sadded with the same Inde or with sad Inke, Indebaudias of it selfe maketh a darke &amp; sad blacke, but being ground with white lead or Cereuse as is afore<g ref="char:EOLhyphen"/>sayd, it maketh a browne blue. <note place="margin">Brovvne blue.</note>
+               </p>
+            </div>
+            <div type="part">
+               <head>To temper smalt or Florey.</head>
+               <p>SMalt or florrey being tempered in a shell with gumme water maketh a blue, but not so perfecte a coloure <note place="margin">Blue colour.</note> as azure or byze doth make. The Poticaries doe put to it often times fine sād or chalke to multiply it to their profit,
+<pb n="5" facs="tcp:12938:5"/> fit, therefore in chusing of it, take that which is brighte of colour, and not harsh, but soft betweene the fingers.</p>
+            </div>
+            <div type="part">
+               <head>To temper Orpiment or Masticot for a yealowe.</head>
+               <p>GRynd Orpiment and Masticot ech by it self on a pain<g ref="char:EOLhyphen"/>ters stone with Gumme water, and in grinding add to <note place="margin">A gold yello for armes.</note> the Masticot a little Saffron, &amp; the colour wil be the liue<g ref="char:EOLhyphen"/>lyer: and when they be wel ground, put them seuerally in shelles to worke withal.</p>
+               <p>Orpyment may be clayed with chalke, and dimmed, that is to say, sadder, or darked with Oker de Luke, or with Browne of Spayne.</p>
+            </div>
+            <div type="part">
+               <head>To temper Vermelion.</head>
+               <p>GRynd Vermelion on a painters stone, first drye, &amp; then <note place="margin">A Vermelion red for armes.</note> do therto a little glayre of egs, &amp; grind it again, vntill the brightnesse be fordone, with a litle of the yelke, and let it stand a day or more, vntil it be wel fined. And whē thou doest worke therwith, stirre it well together, and if it bee thicke as lyme, do a little water therto: and if it shal haue an ill sauour, then put into it three chines of Saffron, and it wil take away the euil sent.</p>
+               <p>His false colour two parts Vermelion, and the thirde part Cerius, and mingle them together, if thou wilt, with the same vermelion.</p>
+            </div>
+            <div type="part">
+               <head>To temper Turnesoll.</head>
+               <p>WEat Turnesoll once or twise in good thinne gleere, <note place="margin">Turnesoll.</note> and let it lye therein vntil it be well steeped. Then wring it into a dish, vntill the colour bee good and sadde. With this you maye florishe redde letters, or vestures.
+<pb facs="tcp:12938:6"/> And this colour shall be enewed (that is to saye) darked or sadded with black ynke.</p>
+               <p>His false colour two parts Turnesoll, and one of Ceri<g ref="char:EOLhyphen"/>us, and it shal be sadded with the same Turnesol.</p>
+            </div>
+            <div type="part">
+               <head>To temper good Roset.</head>
+               <p>TAke the finest &amp; best coloured Roset, and grind it with <note place="margin">Roset colour.</note> gum water on a paynters stone, &amp; so work it forth, this colour may be clayed with chalke or cerius, &amp; sadded with himselfe.</p>
+            </div>
+            <div type="part">
+               <head>To temper Brasill wherwith to write, florish, or rule bokes.</head>
+               <p>Take brasil finely scraped, or grosly beatē to pouder, &amp; put <note place="margin">Brasill.</note> therto the glaire of an egge, or gum water, &amp; a little Allū made in pouder, and let thē steepe a night and a day: &amp; then straine out the liquor, and keepe it to the vse aforesayd.</p>
+            </div>
+            <div type="part">
+               <head>To temper good Synapour.</head>
+               <p>GRynd synapour lake, and synapour topes eche by him<g ref="char:EOLhyphen"/>self <note place="margin">Bloody color.</note> on a painters stone with good glaire. Then put thē in seueral shelles, &amp; worke them foorth, and if they bee too light put to them a little Turnesoll.</p>
+               <p>His false colour ii. parts synapour, &amp; a thirde of Cerius, and lay it on thy vinets, and when it is drye, sadde it with good synapour, and diaper ouer it with white Cerius.</p>
+            </div>
+            <div type="part">
+               <head>To temper red Lead.</head>
+               <p>GRind red Lead wel with gum water, and then put it in <note place="margin">Red lead.</note> a shel: &amp; whē ye work with it, stir it as ye do vermeliō.</p>
+               <p>Of this you shal make no false colour, but of himselfe, &amp; sad it with Synapour, or with good browne of Spain, or
+<pb n="6" facs="tcp:12938:6"/> with light black, or with Vermelion.</p>
+            </div>
+            <div type="part">
+               <head>To temper black lead.</head>
+               <p>GRynd wel black Lead with gumme water on a Pain<g ref="char:EOLhyphen"/>ters <note place="margin">Crane colour.</note> stone, &amp; then put it in a shell to work withal: this is a perfite crane colour of it selfe.</p>
+            </div>
+            <div type="part">
+               <head>To temper browne of Spayne.</head>
+               <p>GRind good brown with gumme water on a paynters <note place="margin">Broun colour.</note> stone, &amp; when it is very well ground put it into a shell. His false colour two parts browne, and the third parte of white Lead, and sadded with the same sad color of browne.</p>
+            </div>
+            <div type="part">
+               <head>To temper Oker de Luke, and Oker de Rouse, which make browne colours.</head>
+               <p>OKer de Luke, and Oker de Rouse shall first be seueral<g ref="char:EOLhyphen"/>ly <note place="margin">Good colours for heare.</note> broken in a brasen morter, &amp; after groūd ech by him<g ref="char:EOLhyphen"/>selfe on a paynters stone with gumme water, and mixed with a little chalke, and enewed or sadded with good O<g ref="char:EOLhyphen"/>ker, or with Brown, either of them maketh a good colour for heare on heades, or on beardes.</p>
+            </div>
+            <div type="part">
+               <head>To temper greene Byze.</head>
+               <p>Take greene Byze that is soft, and not harsh betweene <note place="margin">Greene Byze.</note> the fingers, for if it be harshe, it is mixt with sand, whiche the Apothecaries do vse oftentimes to multiply it to their gayne. And tēper it in a shell with gumme water, and it will be perfite to worke withall. And when you wryte, stirre this colour as you do Azure, and wash it, and dresse it in forme aforesayde: as you do your Azure, before you grynde it with gumme water.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:12938:7"/>
+               <head>To temper Vertgreace, called Spanish greene.</head>
+               <p>TAke Vertgrease well cleansed, and picked frō drosse &amp; <note place="margin">An Emerand green for arms</note> motes, &amp; grind it on a painters stone first drye, and put therto a little of the gal of a Neat, and of the iuyce of rue, with a litle saffron, and bray all these together on y<seg rend="sup">t</seg> same stone, thē put it into a horn or shel vntil it be dry. And whē you will occupy it, take part thereof and grinde it againe with Viniger or Vergis, or with the pisse of a yong child, euery of them hauing gumme Arabic dissolued in them.</p>
+               <p>His false colour two parts, good greene, and the third of <note place="margin">Light greene.</note> Cerius, and sadded with a good greene, and Diaper ouer it with Venis Cerius.</p>
+            </div>
+            <div type="part">
+               <head>To temper Saffron.</head>
+               <p>STeepe saffrō in good glaire, and so worke it forth with <note place="margin">Saffron.</note> a smal pensill, and if thou wilt, thou mayst enew it with good Vermelion, with Saffron also you may enew or flo<g ref="char:EOLhyphen"/>rish ouer letters, or any other thing thou wilt.</p>
+            </div>
+            <div type="part">
+               <head>To temper Venis Cerius, and white lead.</head>
+               <p>GRind Cerius or white Lead, ech by himself on a pain<g ref="char:EOLhyphen"/>ters <note place="margin">A pure white for armes.</note> stone, with cleare water, and therewith thou shalt diaper and florish aboue all thy colours with a purselour, made of a small pensill. And this colour is tempered only with water, or with water lightly chastsed with gumme, for they stand aboue all other colours that be gummed.</p>
+            </div>
+            <div type="part">
+               <head>To make a fume black called Sable.</head>
+               <p>TAke a cleane Latten bason, and hold a burning torche vnder it, vntil the bottome be black, and then take of <note place="margin">A Sable or black for arms</note>
+                  <pb n="7" facs="tcp:12938:7"/> that blacke, and temper it with glayre, or with Gumme water, and so worke with it.</p>
+            </div>
+            <div type="part">
+               <head>To make an excellent black like veluet.</head>
+               <p>TAke Hartes horne, and burne it to cole on a Coliars <note place="margin">A veluet black</note> harth, then make fine poulder thereof, and grind it on a paynters stone, with the gall of a Neat. Then put it in a shel to drye in a shadowy place. And when you will occupy the same, grynde parte thereof agayne with the glaire, or with gumme water, and worke it forth.</p>
+            </div>
+            <div type="part">
+               <head>¶ To make a black colour, or an ynke of a good perfection, wherewith you may write with a pen or pensil.</head>
+               <p>TAke a pound and a halfe of rayne water, with 3 oūces of the waightiest galles you can get. Bruse them in <note place="margin">Black ynke.</note> small peeces, and poure them into the sayd water, and so let it stande two dayes in the sunne, then put to it two oū<g ref="char:EOLhyphen"/>ces of green Coperas, or else of Romain Vitrial, which is best, wel coloured and beaten smal: and stir all these toge<g ref="char:EOLhyphen"/>ther with a stick of hard wood, and let it stand agayne two dayes more in the sunne, putting to it one ounce of gūme Arabike, that is cleare and bright, and beaten in poulder, and one ounce of the peeles of Pomgranads, and thē boile al a little on a slow fire. That done, straine it, and keepe it in a vessel of leade or of glasse, and it wil be very black and perfit good ynke, and if you find it thick, and that it be not flowing inough, put to it a litle cleare lie, which wil make it liquide and thin. And if it be too cleare, ad to it a little gumme Arabike. And to haue your ynke to continue long, and not too hoare put therein bay salt. Note that y<seg rend="sup">e</seg> galles must be small curled, and massiue within, if they bee good. The good Vitriol is alwayes within, of a colour like the element, the best gum is cleare and brittle, that in stāping
+<pb facs="tcp:12938:8"/> it becommeth poulder, easily without cleauing together.</p>
+               <p>Thus is taught the way how to temper Gold, siluer, &amp; <label type="milestone">
+                     <seg type="milestoneunit">Nota. </seg>
+                  </label> colors to lim, or to write withal vpon velym, parchement, or Paper. That is to say Vermelion, Turnesell, Sy<g ref="char:EOLhyphen"/>napour and Saffron, with good glayre. Syse with glayre chasticed with a portion of water, Azure, Byze, greene Byze, red Lead roset Smalt, black Lead, browne Oker, Orpyment, Masticot, and Indebaudias with gumme wa<g ref="char:EOLhyphen"/>ter, vertgrease with vineger, vergis, or with the pisse of a yong chylde, Cerius, and white lead, with cleare water, or with water lightly gummed, brasill, and Fume blacke, with glayre, or with gumme water, which you think best for your purpose.</p>
+               <p>Also there is another way which is vsed amongst the ex<g ref="char:EOLhyphen"/>cellent <label type="milestone">
+                     <seg type="milestoneunit">Nota </seg>
+                  </label> sort of paynters, that is, to grind &amp; tēper all colors for limming (sauing such as be white) first with y<seg rend="sup">t</seg> gall of a Neat, &amp; then let thē dry, &amp; after when you wil work them, take part therof, &amp; grind it againe with glaire, or w<seg rend="sup">t</seg> gūme water, as the colour requireth, and so worke it forth. It is sayd that water killeth &amp; darkneth the brightnes of most colours that be tempered therewith. But this gal preser<g ref="char:EOLhyphen"/>ueth the brightnesse, &amp; maketh thē more liuelier to behold: which thing experience wil teache you more perfitely.</p>
+               <p>Note that al colours to limme or to write withal should neuer be tempered with any kinde of oyle, for oyles serue most aptly for to tēper colours to lay vppon stone, timber, yron, lead, coper, &amp; such like. And oile of Linseed, which is called flax seed, &amp; oyle of walnuts are most vsed, &amp; be most best of al other oyles for the same purpose.</p>
+               <p>Also al colors to limme or write withall when they be <label type="milestone">
+                     <seg type="milestoneunit">Nota </seg>
+                  </label> tēpered, would be put in shelles, in vessels of stone, leade, or of glasse, and kept vnder the ground in some seller, or in some moyst, and shadowye place, for drying ouer fast: &amp; the elder they be the better they be, if they be kept couered frō filth &amp; dust. And note that there is great regard to bee had
+<pb n="8" facs="tcp:12938:8"/> to the well grinding and tempering of the colours, and to the placing of them vpon the worke.</p>
+            </div>
+            <div type="part">
+               <head>The maner how to florish or Diaper with a pensil ouer siluer or Golde.</head>
+               <p>IF you wil diaper ouer gold, take yelow Oker, &amp; ther<g ref="char:EOLhyphen"/>with draw ouer thy gold with a pensil what thou wilt.</p>
+               <p>If thou wilt diaper vpon siluer, take Cerius with a pen<g ref="char:EOLhyphen"/>sil and draw or florish what thou wilt ouer thy siluer.</p>
+               <p>If thou wilt diaper with gold or siluer vpon coloures, take the iuyce of Garlike, with a pensel draw ouer thy co<g ref="char:EOLhyphen"/>lours what thou wilt, then take and lay the gold vpon it, and presse it downe lightly with an hares tayle, and let it dry halfe a day or more, then rub off the golde which clea<g ref="char:EOLhyphen"/>ueth not to the garlike.</p>
+            </div>
+            <div type="part">
+               <head>The wayes to know how to make sundrie kindes of colours by tempering and mingling of colours together.</head>
+               <p>IF you will temper Azure with Turnesoll, and grynde <note place="margin">Purple or vio<g ref="char:EOLhyphen"/>let colour for armes.</note> them together on a paynters stone with gumme water or glayre, you shall make thereof a perfite Purple or a vi<g ref="char:EOLhyphen"/>olet colour. And the like colour you may make with good red Roset if it be mingled with Azure, &amp; tempered with gumme water in maner aforesayd.</p>
+               <p>If thou wilt put to a good quantitie of synapour a lit<g ref="char:EOLhyphen"/>tle <note place="margin">Sanguine or Murrey for arms.</note> portion of black, and grind them together with glaire, you shall make thereof a sanguine or Murrye colour.</p>
+               <p>If you will mingle a bright red with a bright yellow; <note place="margin">Orenge tavv<g ref="char:EOLhyphen"/>ny for armes.</note> and grind them together with glayre, you shal haue ther<g ref="char:EOLhyphen"/>of an Orange tawny.</p>
+               <p>If thou mingle red lead and Masticot together, you shal <note place="margin">Lyon tavvny.</note> haue thereof a Lyon tawney.</p>
+               <pb facs="tcp:12938:9"/>
+               <p> If you will make incarnations for visages, or a fleshly <note place="margin">Incarnation &amp; fleshly colour.</note> colour for Images, first lay on the white, &amp; enewe it with vermilion or else take two parts of Vermilion, and one of Cereuse, and mingle them together, and so laye it on thy worke, and enew it if thou wilt, when it is drye with good Vermelion.</p>
+               <p>Also if you wil mingle Vermelion with Cereuse, by dis<g ref="char:EOLhyphen"/>cretion <note place="margin">Peach colour.</note> you may make thereof a peache flower colour.</p>
+               <p>Also by mingling Vermelion and azure together, by dis<g ref="char:EOLhyphen"/>cretion, <note place="margin">Skye colour.</note> you may make thereof a skye colour.</p>
+               <p>If you wil make a blood red, take of the best Synapour <note place="margin">Blood red.</note> and sad it at the sides with Brown, or Vermelion, or with black.</p>
+               <p>If you mingle good greene and Saffron together, by <note place="margin">Lincoln green.</note> discretion you shal haue thereof a perfit Lyncolne greene.</p>
+               <p>If you mingle Azure and Masticot together, you shall haue thereof a perfite Popiniay greene. <note place="margin">Popiniay greene.</note>
+               </p>
+               <p>If you mingle red with greene, you shal make thereof <note place="margin">Motly greene.</note> a Motly greene.</p>
+               <p>If you will make a blacke vesture, take and laye firste a champe of light black, mingled with white leade, &amp; sadded <note place="margin">Black vesture.</note> with good black.</p>
+               <p>If you will mingle black with a portion of white, you <note place="margin">Marble or ash coloure.</note> may make thereof a Marble or an ashe colour at your dis<g ref="char:EOLhyphen"/>cretion.</p>
+               <p>If you wil mingle a little portion of white with a good quantitie of red, you may make thereof a Russet, or a sadde <note place="margin">Russet or sad brovvne.</note> Browne, at your discretion.</p>
+               <p>Thus by mingling of colours, you may make them of <label type="milestone">
+                     <seg type="milestoneunit">Nota. </seg>
+                  </label> sundry colours, and by proofe you may come to the per<g ref="char:EOLhyphen"/>fite knowledge how to make them on the best maner.</p>
+               <pb n="9" facs="tcp:12938:9"/>
+               <p> ¶ Note furthermore that there is a certayne colouring whiche is called Vernir that is more noble and excellent then all other colours. And so much the more excellent in that it is set aboue all colours. And as the day becommeth more light and brighter by the shining of the sonne, euē so al colours that are vernished do show forth a better glosse or iuster, and become more brighter by the shining of the same. And it is made in maner and forme following.</p>
+            </div>
+            <div type="part">
+               <head>To make a kind of colouring called Vernix, wherewith you may vernish golde, siluer, or any other colour or payn<g ref="char:EOLhyphen"/>tings, be it vpon velim, paper, timber, stone, lead, copper, glasse. &amp;c.</head>
+               <p>TAke Bengewin and braye it well betwixt two papers, thē put it into a viall, and poure vpon it good Aquauite that it bee aboue the Bengewyne three or foure fingers, and let it steepe so a day or two. Thē put to it for half a vy<g ref="char:EOLhyphen"/>all of such Aquauite, fyue or sixe chyues of Saffron slen<g ref="char:EOLhyphen"/>derly stamped. This done, strayne it, &amp; with a pencel Ver<g ref="char:EOLhyphen"/>nish therwith any thing gylted, which will become bright and shining, drying it self immediately, &amp; wil continue the brightnesse many yeares. But if you wil vernish on siluer, then take the Almon of Bengewyne, that is to say y<seg rend="sup">e</seg> white that is found in the middest of Bengewyne, and dresse it with Aquauite in the foresayd maner, leauing out the saf<g ref="char:EOLhyphen"/>fron. And the sayd vernishe made with Bengewine and A<g ref="char:EOLhyphen"/>quauite only, is very good to vernishe all thinges, as well paynted as not painted, for it maketh tables and coffers of walnut tree, &amp; Hebeny to glister if it be layd vppon them, and all other like thinges, as workes of Iron, copper or tinne, gilted or not gylted, for it maketh brighte, preser<g ref="char:EOLhyphen"/>ueth, aydeth the colour, and dryeth incontinent without
+<pb facs="tcp:12938:10"/> taking anye dust or filth▪ you maye make it cleane with a linneth cloth, or with wiping the worke with a fox tayle, the which is better.</p>
+            </div>
+            <div type="part">
+               <head>¶ To make Vernix another way for the purposes aforesayd.</head>
+               <p>Take two ounce of hard mastike and stampe it, &amp; put it into a little new pot, and so melt it on a soft fyre, this done, put to it one ounce of the oyle of a Firre tree, and so lette them boyle a little euermore stirring them together, but let it boyle almost nothing, for if it boyle too muche the vernish will be too clammy, and to know when it is boy<g ref="char:EOLhyphen"/>led ynough, put into it a hens fether, and if it burn by and by, it is a signe, that it is perfect. Then take it from y<seg rend="sup">e</seg> fire, and put it into a stone pot, &amp; keepe it well from duste, and when you will occupy it, take so much thereof as wil serue your turne, and heate it a little at the fire, then spreade it vpon your worke with a pensill as thin as you may, and it shal haue a very fayre glosse or luster, and it will drye in<g ref="char:EOLhyphen"/>continent if you shal set it in the sonne.</p>
+            </div>
+            <div type="part">
+               <head>To make colours of all kinde of mettals.</head>
+               <p>TAke a beade of Christall or a Paragon stone and beat ech of them by himself in a brasen morter to fyne pou<g ref="char:EOLhyphen"/>der, then grynde them drye eche by himselfe on a payn<g ref="char:EOLhyphen"/>ters stone vntill the poulder bee verye fyne and small, then grynde them agayne on the same stone eche by him<g ref="char:EOLhyphen"/>selfe with good glayre and laye some one of them on the worke with a pen or a pensill, and when it is well dryed, then rub it ouer with golde, or with any other mettal, and you shall haue the same colour that the mettall is of.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:12938:10"/>
+               <head>¶ To make letters of the colour of Gold with<g ref="char:EOLhyphen"/>out Golde.</head>
+               <p>TAke one ounce of Orpiment, &amp; one ounce of fyne chry<g ref="char:EOLhyphen"/>stall, and beat ech of them by himselfe to poulder in a brasen morter. Then grind them wel together with glair vpon a paynters stone, then it is perfite to write withall.</p>
+            </div>
+            <div type="part">
+               <head>To make letters of the colour of siluer, with<g ref="char:EOLhyphen"/>out siluer.</head>
+               <p>TAke an ounce of Tinne, two ounces of quicksiluer, and melte them together, and then grinde them well vppon a paynters stone with gumme water, and write with it.</p>
+            </div>
+            <div type="part">
+               <head>To make white letters in a black field.</head>
+               <p>TAke the yeolke of a new layde egge, and grynd it vp<g ref="char:EOLhyphen"/>on a paynters stone with fayre water, so as you maye well write with it out of a penne, and when you haue so done, you may with the same liquor draw or write with a pen great or small letters vpon paper or parchment, and when they be drye, then may you with Inke blacke ouer the letters and paper so much as you shal think good. And when the blacke is through drye, then maye you with a white woollen cloth or a knyfe rub off all the sayd letters written with the yeolke of the egge, &amp; then the letters vn<g ref="char:EOLhyphen"/>derneath will appeare all white, because they were pre<g ref="char:EOLhyphen"/>serued with the sayd liquor: So that you shal haue faire white letters in a black fielde.</p>
+            </div>
+            <div type="part">
+               <head>To make staunche grayne, or a poulder to amend the parchment, and to receyue ynke.</head>
+               <pb facs="tcp:12938:11"/>
+               <p> Take ii. parts of rosen, &amp; i. part of Allome, and beat ech of them by himselfe in a brasen morter al to pouder, &amp; put the same pouders together in a fine linnen cloth &amp; rub your ve<g ref="char:EOLunhyphen"/>lim, parchmēt or paper therwith when you begin to write. And when the writing is drye, you may rub it ouer agayn with a white woollen cloth, and the letters will bee neuer the worse, but more fayrer and brighter to see to.</p>
+            </div>
+            <div type="part">
+               <head>To renew old and worn letters.</head>
+               <p>Take of the best galles you can get and bruse thē grosly then lay them to steepe one day in good white wyne. This done, distill them with the wyne, &amp; with the distilled water that cōmeth of thē, you shal wet handsomly the old letters with a little cotten or a smal pencel, &amp; they wil shew fresh and new again, in such wise, as you may easily read them.</p>
+            </div>
+            <div type="part">
+               <head>¶ To take grease out of parchment or paper.</head>
+               <p>Take sheeps burres and burne them to pouder, &amp; lay the sayd pouder on both sides the parchment or paper between two paper boards, and presse them by the space of two days or more, and it will dry and soke out all the greace.</p>
+            </div>
+            <div type="part">
+               <head>To make red and greene sealing wax.</head>
+               <p>MElt a <choice>
+                     <abbr>li</abbr>
+                     <expan>pound</expan>
+                  </choice>. of wax &amp; two oūces of Turpentine together, and when they be well molten, take them frō the fire, and put to them an ounce of Vermelion while it is luke warme, and stirre it wel together in the keeling, and then make it vp in roules, and in like manner shall you make greene waxe by putting Vertgrease into it. Note if you will take two parts of Rosin and one parte of turpentine, adding to it Vermelion, as is aforesayd, it maketh the bet<g ref="char:EOLhyphen"/>ter waxe.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:12938:11"/>
+               <head>A pretie deuise to take out the true forme and proportion of any letter, knot, Flower, Image, or other worke, be it printed, drawne with a pen or pencel vpon paper or parche<g ref="char:EOLhyphen"/>ment, without rasing, blotting or hurting the right patterne or picture it self.</head>
+               <p>Take oyle or other licours that make smoke and burne them in a lampe, then holde ouer the lampe a sheet of clean paper, and black as much of the same lightlye as will re<g ref="char:EOLhyphen"/>ceaue the full proportion of the worke that you doe meane to take out, that done, lay the blacked paper vnder y<seg rend="sup">e</seg> backe<g ref="char:EOLunhyphen"/>syde of the worke, the blacked side vpwarde, laying a thin white paper betweene the worke and it: and with a small pencel made of hard wood or of bone you shal draw lightly ouer the letters, knot, or worke whiche you desire to take out, pressing it softly. Thus doing you shall see the verye fourme and proportion of the same work remaining on the thin white paper. Then with a small pen and ynke, you may trace &amp; draw ouer the worke remaining on the white paper, that done, the ynke wil set out the very print &amp; forme of the worke (as farre as you touched the same with your pencel) in euery proportiō. You may also for the same pur<g ref="char:EOLhyphen"/>pose (if neede be) black ouer your paper with the ley of a candle or of a linke, or of a new torche, or such like whiche is a very ready way and a perfite.</p>
+            </div>
+            <div type="part">
+               <head>¶ Another pretie deuise to take out the true form and pro<g ref="char:EOLhyphen"/>portion of any Flower, Image, or such like.</head>
+               <p>TAke a cleane and thinne lanterne horne, and laye it vppon the letter, Image, or other worke that thou wilt take out, and it will appeare through the horne, so as thou mayste drawe with a small penne vppon the horne
+<pb facs="tcp:12938:12"/> all the proportion of the worke at thyne owne pleasure, e<g ref="char:EOLhyphen"/>uen as thou list. And when thou hast drawne it all out, then let it drye vpon the horne in the sunne, and when it is through drye, then breath vpon it twice or thrice, and then lay it downe vpon thy booke. And then presse it down, (the letters being next the paper) with a linnen cloth, and the same letters or worke shal remayne vpon the paper which thou didst draw vpon the horne, then draw it fayre agayne with blacke ynke.</p>
+               <p>¶ Here haue I taught you besides the tempering of gold, of siluer, and of colours) diuers thinges very meete, &amp; ne<g ref="char:EOLhyphen"/>cessary to be known to paynters and scriueners. And now wil I rehearse briefely al that I haue written before tou<g ref="char:EOLhyphen"/>ching limming. Firste draw thy worke with a pencill of blacke leade, and then with pen and ynke. Then laye thy syses for thy golde and siluer. Then ingrosse them with a sharpe knife, then weat them ouer lightlye with thy pen<g ref="char:EOLhyphen"/>cell, then being drye burnish it with a tooth. Then weate thy syze agayne lightly, then touch thy gold and lay ther<g ref="char:EOLhyphen"/>on. Then presse it lightly with an hares taile, then let it dry, then burnish it with a tooth, then rub it with a white woollen cloth or an hares foote vntill all go off, but that which cleaueth vnto the syse. Then lay thy colours: First thy false colours and after thy sad, then purfle them about the sides with black inke, then mayst thou diaper them o<g ref="char:EOLhyphen"/>uer with white colour if thou wilt, then vernish them ouer with good old glayre, and then hast thou done all that belongeth to lymming.</p>
+               <trailer>Finished</trailer>
+               <closer>
+                  <dateline>
+                     <date>Anno Dom. 1573.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="list">
+            <pb facs="tcp:12938:12"/>
+            <head>¶ THE NAMES OF AL SVCH <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and other thinges as are mentioned &amp; contayned in this <hi>present Booke of Limming, and are for the most</hi> part to be sold at the Poticaries.</head>
+            <list>
+               <item>GOld foile.</item>
+               <item>Siluer foyle.</item>
+               <item>Shell Gold.</item>
+               <item>Shell siluer.</item>
+               <item>Azure.</item>
+               <item>Byze.</item>
+               <item>Indebaudias.</item>
+               <item>Smalt florey.</item>
+               <item>Orpyment</item>
+               <item>Masticot.</item>
+               <item>Vermelion.</item>
+               <item>Turnesoll.</item>
+               <item>Roset.</item>
+               <item>Brasill.</item>
+               <item>Sinapor lake.</item>
+               <item>Sinapor topias</item>
+               <item>Red leade</item>
+               <item>Black lead</item>
+               <item>Brown of Spayn.</item>
+               <item>Okar de Luke</item>
+               <item>Greene Bize.</item>
+               <item>Vertgrease.</item>
+               <item>Saffron</item>
+               <item>Vennis Cerius</item>
+               <item>White leade.</item>
+               <item>Fume blacke</item>
+               <item>Black inke.</item>
+               <item>Harts horn, Gip<g ref="char:EOLhyphen"/>sum.</item>
+               <item>Booll Armonike</item>
+               <item>Gumme Arabik</item>
+               <item>Galles.</item>
+               <item>Greene coperas.</item>
+               <item>Romain vytrioll.</item>
+               <item>Rozen</item>
+               <item>Allum</item>
+               <item>Waxe</item>
+               <item>Honny</item>
+               <item>Turpentine</item>
+               <item>Quicksiluer</item>
+               <item>Tynne</item>
+               <item>Pōgarnarde pilz</item>
+               <item>Christal stone</item>
+               <item>Paragon stone.</item>
+               <item>Chalke</item>
+               <item>Allabaster</item>
+               <item>Plaister of an old image</item>
+               <item>Vnflect lyme</item>
+               <item>Pouder of whyte bones</item>
+               <item>Pouder of shepes burres</item>
+               <item>Netes gall</item>
+               <item>Whites of egges</item>
+               <item>Yeolks of egges</item>
+               <item>Cowes milke,</item>
+               <item>Ewes milke</item>
+               <item>Milke of greene figges.</item>
+               <item>Milke of spurge</item>
+               <item>Milke of wart<g ref="char:EOLhyphen"/>weede.</item>
+               <item>Milke of Salendine.</item>
+               <item>Iuice of Garlike and of Onion heads.</item>
+               <item>Iuice of Rue</item>
+               <item>Iuice of red Nettle.</item>
+               <item>Scraped cheese.</item>
+               <item>White wine.</item>
+               <item>White Vineger.</item>
+               <item>Vergis</item>
+               <item>Childs pisse.</item>
+               <item>Lye</item>
+               <item>Oyles and liquors that make smoke</item>
+               <item>Glouers shreds, and shreds of new parchment</item>
+               <item>Water and grease of Snailes, Glue water</item>
+               <item>Aquauite</item>
+               <item>Bengewyne</item>
+               <item>Oyle of Linseed</item>
+               <item>Oyle of Walnuts,</item>
+               <item>Baysalt.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
